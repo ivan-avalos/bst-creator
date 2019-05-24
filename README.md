@@ -2,7 +2,7 @@
 
 ![Example of generated BST](graph.png)
 
-This is the final project for the Discrete Math subject in my school. This program is completely written in C, and uses the **AT&T's Graphviz*** library to create and render graphs into PNG images. This is really basic, I just took advantage of this project to learn a little bit of C. I could have done this in Python or even Java, but it would have been really boring: I needed a little challenge.
+This is the final project for the Discrete Math subject in my school. This program is completely written in C, and uses the **AT&T's Graphviz** library to create and render graphs into PNG images. This is really basic, I just took advantage of this project to learn a little bit of C. I could have done this in Python or even Java, but it would have been really boring: I needed a little challenge.
 
 ## Requirements
 
